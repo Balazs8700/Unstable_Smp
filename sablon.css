@@ -3,9 +3,17 @@ table {
   }
 body{
     margin: 250px  250px 250px 250px;
-    
+    background-image: url(Minecraft-Aesthetic-Wallpaper-Free-Download.png) ;
+    background-size: cover;
+    color: whitesmoke;
 }
 
 .wemmbu{
     float: right;
+}
+#belsokeret{
+    width: auto;
+    height: 1000px;
+    background-color: rgba(0, 0, 0, 0.8); 
+    padding: 50px;
 }

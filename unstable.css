@@ -13,28 +13,11 @@
     width: 250px;
 }
 .kepek{
-<<<<<<< HEAD
-    width: 250px;
-    height: 250px;
-}
-#bevezeto{
-    margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 200px;
-    font-size: large;
-}
-#belsodiv{
-    width: auto;
-    height: 1000px;
-    background-color: rgba(0, 0, 0, 0.8); 
-    padding: 50px;
-    
-}
-body{
-    color: whitesmoke;
-=======
     width: 150px;
     height: 300px;
->>>>>>> 6f047fdec427ed8acb141486d65d5af78ffc90c9
 
+}
+
+body{
+    background-image: url(Minecraft-Aesthetic-Wallpaper-Free-Download.png);
 }
