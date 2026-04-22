@@ -13,7 +13,11 @@ body{
 }
 #belsokeret{
     width: auto;
-    height: 1000px;
+    height: auto;
     background-color: rgba(0, 0, 0, 0.8); 
     padding: 50px;
+}
+
+.idezo{
+    font-size: 30px;
 }
