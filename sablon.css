@@ -16,8 +16,23 @@ body{
     height: auto;
     background-color: rgba(0, 0, 0, 0.8); 
     padding: 50px;
+    padding-bottom: 200px;
 }
 
 .idezo{
     font-size: 30px;
+}
+
+.debut{
+    text-align: right;
+    font-size: larger;
+    
+}
+
+.anyu{
+    float: right;
+    width: 200px;
+}
+#baba{
+    float: right;
 }
